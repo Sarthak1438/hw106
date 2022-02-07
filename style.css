@@ -1,0 +1,26 @@
+body{
+    background-color: crimson;
+}
+#sda{
+    color: white;
+    margin: 10px;
+}
+#note{
+    color: white;
+    margin: 10px;
+}
+#buttttn{
+    background-color: orangered;
+    margin: 10px;
+}
+#ich{
+    color: white;
+    margin: 10px;
+}
+#dev{
+    color: white;
+    margin: 10px;
+}
+#divi{
+    background-color: #FDD835;
+}
